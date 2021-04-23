@@ -1,0 +1,15 @@
+{
+  "name": "vanila",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "sbin0819 <sbinha123@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.13.16",
+    "parcel-bundler": "^1.12.5"
+  }
+}
